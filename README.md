@@ -4,4 +4,4 @@ Simple calculator
 
 calheader: header file.
 calimp: implentation file.
-calexe: client file.
+cal: client file.
