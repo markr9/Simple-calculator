@@ -1,3 +1,3 @@
 # Simple-calculator
-Simple calcuator
+Simple calculator
 '+ - * /' only
