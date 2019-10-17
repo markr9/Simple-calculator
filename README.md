@@ -1,3 +1,7 @@
 # Simple-calculator
 Simple calculator
-'+ - * /' only
+('+ - * /' only)
+
+calheader: header file.
+calimp: implentation file.
+calexe: client file.
