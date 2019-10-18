@@ -3,5 +3,5 @@ Simple calculator
 ('+ - * /' only)
 
 calheader: header file.
-calimp: implentation file.
+calimp: implementation file.
 cal: client file.
